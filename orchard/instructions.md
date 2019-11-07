@@ -1,5 +1,7 @@
 # Modelling a fruit orchard
 
+To practice our programming, we're going to build basic program that models a fruit orchard.  First, clone this repository using GitHub. Next, create a new NetBeans project inside your newly cloned folder. Call your new project **Orchard**.
+
 ## Fruit
 - Create an abstract class called Fruit
   - Give it a final double instance variable weight and a boolean instance variable ripe
