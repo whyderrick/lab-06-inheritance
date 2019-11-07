@@ -1,6 +1,8 @@
 # Modelling a fruit orchard
 
-To practice our programming, we're going to build basic program that models a fruit orchard.  First, clone this repository using GitHub. Next, create a new NetBeans project inside your newly cloned folder. Call your new project **Orchard**.
+To practice our programming, we're going to build basic program that models a fruit orchard.  First, clone this repository using GitHub. Next, create a new NetBeans project inside your newly cloned folder. Call your new project **Orchard**. Finally, create classes inside your new project to satisfy these instructions.
+
+Make frequent commits and push your assignment to GitHub when you've finished. 
 
 ## Fruit
 - Create an abstract class called Fruit
